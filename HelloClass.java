@@ -4,5 +4,6 @@ public class HelloClass{
 		    System.out.println("Hello git:更新完成A功能");
 			em.out.println("Hello git");
 		    System.out.println("Hello git:更新完成B功能");
+			   System.out.println("Hello git:pushgithub");
     }
 }
